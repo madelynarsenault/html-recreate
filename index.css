@@ -1,0 +1,34 @@
+.header {
+    background-color:grey;
+    width:100vw;
+    height:15vh;
+    
+}
+
+.left{
+    display: inline-block;
+    background-color: rgb(173, 173, 173);
+    width:9vw;
+    height:100vh;
+    
+    
+}
+
+.footer{
+    display: inline-block;
+    background-color: grey;
+    width:86vw;
+    height:15vh;
+    margin-left: 9vw;
+    
+}
+
+.right{
+    display:inline-block;
+    background-color: rgb(173, 173, 173);
+    width: 5vw;
+    height: 115.4vh;
+    position: absolute;
+    right:0;
+
+}
